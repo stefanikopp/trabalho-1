@@ -22,5 +22,8 @@ US05 Eu como usuário do sistema
      Gostaria de poder gerar um relatório por data de compra
      Para guardar um documento com o meu histórico de compra por um periodo especifico.
      
+     ![Screenshot](diagrama-caso-de-uso.png)
+
+     
     
      
