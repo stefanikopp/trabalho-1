@@ -1,6 +1,10 @@
 # Trbalho 1 - Ecommerce
 
-# Requisitos
+# Introdução
+
+# Requisitos e Restrições Arquiteturais
+
+# Visão de Caso de Uso - User Stories
 
 US01 Eu como usuário do sistema
      Gostaria de poder cadastrar um ecommercer
@@ -22,9 +26,10 @@ US05 Eu como usuário do sistema
      Gostaria de poder gerar um relatório por data de compra
      Para guardar um documento com o meu histórico de compra por um periodo especifico.
      
-    # Diagrama de Caso de Uso 
+# Diagrama de Caso de Uso 
 ![Alt Text](https://github.com/stefanikopp/trabalho-1/blob/main/diagrama-caso-de-uso.PNG)
 
-     
-    
+# Visão Lógica
+
+# Visão de Implantação
      
