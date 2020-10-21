@@ -1,29 +1,39 @@
 # Trabalho 1 - Ecommerce
 
 # Introdução
+Neste documento estão registradas as partes significativas das escolhas de arquitetura do projeto para um sistema de registro de pedidos dos usuários nos mais diversos e-commerces, assim sendo um local único para acompanhamento e histórico de compras.
 
 # Requisitos e Restrições Arquiteturais
+Softwares Utilizados <br>
+     - 
+Linguagem escolhida <br>
+     -
 
 # Visão de Caso de Uso - User Stories
 
-US01 Eu como usuário do sistema
-     Gostaria de poder cadastrar um ecommercer
+<b>US01 - Cadastrar Ecommerce</b><br>
+     Eu como usuário do sistema <br>
+     Gostaria de poder cadastrar um ecommercer<br>
      Para que eu eu possa acompanhar meu pedido no mesmo.
      
-US02 Eu como usuário do sistema 
-     Gostaria de poder importar meu pedidos de um ecemmerce especifico 
+<b>US02 - Importar pedidos</b><br>
+     Eu como usuário do sistema <br>
+     Gostaria de poder importar meu pedidos de um ecemmerce especifico <br>
      Para ter um controle unico de pedidos.
      
-US03 Eu como usuário do sistema 
-     Gostaria de poder filtrar meu pedidos por ecommerce
+<b>US03 - Filtrar pedido por ecommerce</b><br>
+     Eu como usuário do sistema <br>
+     Gostaria de poder filtrar meu pedidos por ecommerce<br>
      Para que eu consiga controlar os pedidos feito em um determinado ecommerce.
      
-US04 Eu como usuário do sistema
-     Gostaria de poder gerar um relatório por ecommerce
+<b>US04 - Gerar relatório por ecommerce</b><br>
+     Eu como usuário do sistema<br>
+     Gostaria de poder gerar um relatório por ecommerce<br>
      Para guardar um documento com o meu histórico de compra.
      
-US05 Eu como usuário do sistema
-     Gostaria de poder gerar um relatório por data de compra
+<b>US05 - Gerar relatório por data</b><br>
+     Eu como usuário do sistema<br>
+     Gostaria de poder gerar um relatório por data de compra<br>
      Para guardar um documento com o meu histórico de compra por um periodo especifico.
      
 <h2>Diagrama de Caso de Uso</h2> 
