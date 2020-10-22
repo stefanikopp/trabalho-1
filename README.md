@@ -50,5 +50,7 @@ Linguagem escolhida <br>
 
 # Atributo de Qualidade
 
-# Configurações 
-     
+# Configurações do Projeto
+<b>Front-End</b><br>
+<b>Back-End</b><br>
+<b>Banco de Dados</b><br>
