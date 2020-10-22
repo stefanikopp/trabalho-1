@@ -11,7 +11,7 @@ exports.create = async (req, res) => {
       valor: req.body.valor,
     })
 
-    res.status(201).send(JSON.stringify(produtoCriado))
+    res.status(201).send(produtoCriado)
   } catch (error) {
     res.status(500).send({
       message: error.message || "Erro ao criar o produto."
@@ -22,7 +22,7 @@ exports.create = async (req, res) => {
 exports.findAll = async (req, res) => {
   try {
     const produtos = await Produto.findAll()
-    res.status(200).send(JSON.stringify(produtos))
+    res.status(200).send(produtos)
   } catch (error) {
     res.status(500).send({
       message: error.message || "Erro ao buscar os produtos."
@@ -33,7 +33,7 @@ exports.findAll = async (req, res) => {
 exports.findOne = async (req, res) => {
   try {
     const produto = await Produto.findByPk(req.params.id)
-    res.status(200).send(JSON.stringify(produto))
+    res.status(200).send(produto)
   } catch (error) {
     res.status(500).send({
       message: error.message || "Erro ao buscar os produtos."

@@ -10,5 +10,5 @@ exports.findAll = async (req, res) => {
     { model: Produto },
   ]})
 
-  res.status(200).send(JSON.stringify(pedidos));
+  res.status(200).send(pedidos);
 };
