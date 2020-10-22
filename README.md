@@ -1,7 +1,8 @@
-# Localiza 
-Trabalho 1 
-Projeto e Arquitetura de Software     Professora Ana Terra Bacelos
-Time: Camila Borba, Jessica Manoel, Stefani Kopp, Victoria
+# Projeto Localiza 
+<b>Trabalho 1</b> <br>
+<b>Disciplina:</b> Projeto e Arquitetura de Software <br>
+<b>Professora:</b> Ana Terra Bacelos <br>
+<b>Time:</b> Camila Borba, Jessica Manoel, Stefani Kopp, Victoria
 
 # Introdução
 Neste documento estão registradas as partes significativas das escolhas de arquitetura do projeto para um sistema de registro de pedidos dos usuários nos mais diversos e-commerces, assim sendo um local único para acompanhamento e histórico de compras.
@@ -46,4 +47,8 @@ Linguagem escolhida <br>
 # Visão Lógica
 
 # Visão de Implantação
+
+# Atributo de Qualidade
+
+# Configurações 
      
